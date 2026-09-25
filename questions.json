@@ -8,5 +8,15 @@
         "question": "What is the capital of Nigeria?",
         "options": ["Lagos", "Abuja", "Kano", "Ibadan"],
         "answer": "Abuja"
+    },
+    {
+        "question": "What is the largest planet in our solar system?",
+        "options": ["Earth", "Jupiter", "Saturn", "Mars"],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "Who is known as the father of computers?",
+        "options": ["Alan Turing", "Charles Babbage", "Bill Gates", "Steve Jobs"],
+        "answer": "Charles Babbage"
     }
 ]
